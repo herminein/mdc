@@ -993,3 +993,382 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 00:59:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157687294611.jpg
 00:59:05	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157592374556.jpg (from mdc.17173.com/article/info-6312.html)
 00:59:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157592374556.jpg
+00:59:09	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157603716282.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157603716282.jpg
+00:59:14	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157611276569.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157611276569.jpg
+00:59:16	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157620346098.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157620346098.jpg
+00:59:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157694860976.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157625691928.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157697620166.png (from mdc.17173.com/article/info-6312.html)
+00:59:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157628589337.png (from mdc.17173.com/article/info-6312.html)
+00:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157694860976.jpg
+00:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157625691928.jpg
+00:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157697620166.png
+00:59:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157628589337.png
+00:59:20	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157629479427.jpg (from mdc.17173.com/article/info-6312.html)
+00:59:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157629479427.jpg
+00:59:24	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/02/148064846024544.png (from mdc.17173.com/article/info-5501.html)
+00:59:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/02/148064846024544.png
+00:59:29	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019128956067.png (from mdc.17173.com/article/info-5430.html)
+00:59:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019128956067.png
+00:59:31	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019020186992.png (from mdc.17173.com/article/info-5430.html)
+00:59:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019020186992.png
+00:59:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019144073473.jpg (from mdc.17173.com/article/info-5431.html)
+00:59:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148025157824999.png (from mdc.17173.com/article/info-5432.html)
+00:59:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041345478188.png (from mdc.17173.com/article/info-5476.html)
+00:59:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041305022808.png (from mdc.17173.com/article/info-5476.html)
+00:59:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019144073473.jpg
+00:59:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148025157824999.png
+00:59:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041345478188.png
+00:59:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041305022808.png
+00:59:35	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032813216958.png (from mdc.17173.com/article/info-5444.html)
+00:59:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032813216958.png
+00:59:39	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032812386117.png (from mdc.17173.com/article/info-5444.html)
+00:59:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032812386117.png
+00:59:44	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032811664507.png (from mdc.17173.com/article/info-5444.html)
+00:59:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032811664507.png
+00:59:46	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032810763257.png (from mdc.17173.com/article/info-5444.html)
+00:59:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032810763257.png
+00:59:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032809916239.png (from mdc.17173.com/article/info-5444.html)
+00:59:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121007444357.png (from mdc.17173.com/article/info-5523.html)
+00:59:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120352382754.png (from mdc.17173.com/article/info-5523.html)
+00:59:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121145889431.jpg (from mdc.17173.com/article/info-5525.html)
+00:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032809916239.png
+00:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121007444357.png
+00:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120352382754.png
+00:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121145889431.jpg
+00:59:50	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120039317107.png (from mdc.17173.com/article/info-5524.html)
+00:59:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120039317107.png
+00:59:54	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143656765245.jpg (from mdc.17173.com/article/info-5553.html)
+00:59:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143656765245.jpg
+00:59:59	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143594725518.png (from mdc.17173.com/article/info-5553.html)
+00:59:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143594725518.png
+01:00:01	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143351714958.jpg (from mdc.17173.com/article/info-5553.html)
+01:00:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143351714958.jpg
+01:00:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143352942561.jpg (from mdc.17173.com/article/info-5553.html)
+01:00:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143355621703.jpg (from mdc.17173.com/article/info-5553.html)
+01:00:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143357438711.jpg (from mdc.17173.com/article/info-5553.html)
+01:00:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146673790784923.jpg (from mdc.17173.com/article/info-4465.html)
+01:00:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143352942561.jpg
+01:00:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143355621703.jpg
+01:00:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143357438711.jpg
+01:00:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146673790784923.jpg
+01:00:05	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/23/146668163386191.jpg (from mdc.17173.com/article/info-4468.html)
+01:00:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/23/146668163386191.jpg
+01:00:09	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727422459120.jpg (from mdc.17173.com/article/info-4469.html)
+01:00:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727422459120.jpg
+01:00:14	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146676983928118.jpg (from mdc.17173.com/article/info-4469.html)
+01:00:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146676983928118.jpg
+01:00:16	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727416151496.jpg (from mdc.17173.com/article/info-4469.html)
+01:00:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727416151496.jpg
+01:00:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675524590021.png (from mdc.17173.com/article/info-4466.html)
+01:00:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675526443155.png (from mdc.17173.com/article/info-4466.html)
+01:00:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146903264679774.jpg (from mdc.17173.com/article/info-4683.html)
+01:00:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link d24wuq6o951i2g.cloudfront.net/img/events/id/256/2564080/assets/1ee.MAP_GZ.png (from mdc.17173.com/article/info-4683.html)
+01:00:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675524590021.png
+01:00:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675526443155.png
+01:00:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146903264679774.jpg
+01:00:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link cdn5.shendeng.17173.com/shendeng/GameHall/test/mdgz 2.6.pdf (from mdc.17173.com/article/info-4784.html)
+01:00:20	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908508883787.png (from mdc.17173.com/article/info-4784.html)
+01:00:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908508883787.png
+01:00:24	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908555879877.png (from mdc.17173.com/article/info-4784.html)
+01:00:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908555879877.png
+01:00:29	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584042817.png (from mdc.17173.com/article/info-4784.html)
+01:00:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584042817.png
+01:00:31	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584059354.png (from mdc.17173.com/article/info-4784.html)
+01:00:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584059354.png
+01:00:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584064200.png (from mdc.17173.com/article/info-4784.html)
+01:00:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012103.png (from mdc.17173.com/article/info-4784.html)
+01:00:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584074305.png (from mdc.17173.com/article/info-4784.html)
+01:00:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584064200.png
+01:00:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012103.png
+01:00:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584074305.png
+01:00:33	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023658.png (from mdc.17173.com/article/info-4784.html)
+01:00:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023658.png
+01:00:35	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584013275.png (from mdc.17173.com/article/info-4784.html)
+01:00:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584013275.png
+01:00:39	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584017540.png (from mdc.17173.com/article/info-4784.html)
+01:00:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584017540.png
+01:00:44	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584078782.png (from mdc.17173.com/article/info-4784.html)
+01:00:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584078782.png
+01:00:46	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012562.png (from mdc.17173.com/article/info-4784.html)
+01:00:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012562.png
+01:00:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584084502.png (from mdc.17173.com/article/info-4784.html)
+01:00:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023571.png (from mdc.17173.com/article/info-4784.html)
+01:00:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584186093.png (from mdc.17173.com/article/info-4784.html)
+01:00:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584084502.png
+01:00:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023571.png
+01:00:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584186093.png
+01:00:48	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584169702.png (from mdc.17173.com/article/info-4784.html)
+01:00:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584169702.png
+01:00:50	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584114433.png (from mdc.17173.com/article/info-4784.html)
+01:00:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584114433.png
+01:00:54	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584149928.png (from mdc.17173.com/article/info-4784.html)
+01:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584149928.png
+01:00:59	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584159530.png (from mdc.17173.com/article/info-4784.html)
+01:00:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584159530.png
+01:01:01	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584166795.png (from mdc.17173.com/article/info-4784.html)
+01:01:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584166795.png
+01:01:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584120988.png (from mdc.17173.com/article/info-4784.html)
+01:01:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584156724.png (from mdc.17173.com/article/info-4784.html)
+01:01:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584181150.png (from mdc.17173.com/article/info-4784.html)
+01:01:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584120988.png
+01:01:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584156724.png
+01:01:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584181150.png
+01:01:03	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584124778.png (from mdc.17173.com/article/info-4784.html)
+01:01:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584124778.png
+01:01:05	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960916045154.png (from mdc.17173.com/article/info-4840.html)
+01:01:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960916045154.png
+01:01:09	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960921347594.png (from mdc.17173.com/article/info-4840.html)
+01:01:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960921347594.png
+01:01:14	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147179754238629.jpg (from mdc.17173.com/article/info-5017.html)
+01:01:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147179754238629.jpg
+01:01:16	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013303516854.jpg (from mdc.17173.com/article/info-4911.html)
+01:01:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013303516854.jpg
+01:01:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013431549311.png (from mdc.17173.com/article/info-4911.html)
+01:01:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432062343.png (from mdc.17173.com/article/info-4911.html)
+01:01:17	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432560581.png (from mdc.17173.com/article/info-4911.html)
+01:01:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013431549311.png
+01:01:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432062343.png
+01:01:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432560581.png
+01:01:18	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433047192.png (from mdc.17173.com/article/info-4911.html)
+01:01:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433047192.png
+01:01:20	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433743606.png (from mdc.17173.com/article/info-4911.html)
+01:01:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433743606.png
+01:01:24	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434145167.png (from mdc.17173.com/article/info-4911.html)
+01:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434145167.png
+01:01:29	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434616433.png (from mdc.17173.com/article/info-4911.html)
+01:01:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434616433.png
+01:01:31	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435587856.png (from mdc.17173.com/article/info-4911.html)
+01:01:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435587856.png
+01:01:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435990692.png (from mdc.17173.com/article/info-4911.html)
+01:01:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013436648811.png (from mdc.17173.com/article/info-4911.html)
+01:01:32	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013437183525.png (from mdc.17173.com/article/info-4911.html)
+01:01:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435990692.png
+01:01:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013436648811.png
+01:01:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013437183525.png
+01:01:33	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438383476.png (from mdc.17173.com/article/info-4911.html)
+01:01:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438383476.png
+01:01:35	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438764407.png (from mdc.17173.com/article/info-4911.html)
+01:01:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438764407.png
+01:01:39	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439463139.png (from mdc.17173.com/article/info-4911.html)
+01:01:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439463139.png
+01:01:44	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439824308.png (from mdc.17173.com/article/info-4911.html)
+01:01:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439824308.png
+01:01:46	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440233573.png (from mdc.17173.com/article/info-4911.html)
+01:01:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440233573.png
+01:01:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440975425.png (from mdc.17173.com/article/info-4911.html)
+01:01:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441386108.png (from mdc.17173.com/article/info-4911.html)
+01:01:47	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441710952.png (from mdc.17173.com/article/info-4911.html)
+01:01:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440975425.png
+01:01:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441386108.png
+01:01:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441710952.png
+01:01:48	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013442172486.png (from mdc.17173.com/article/info-4911.html)
+01:01:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013442172486.png
+01:01:50	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004816711759.jpg (from mdc.17173.com/article/info-4898.html)
+01:01:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004816711759.jpg
+01:01:54	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004822298516.jpg (from mdc.17173.com/article/info-4898.html)
+01:01:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004822298516.jpg
+01:01:59	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147184624032688.png (from mdc.17173.com/article/info-5023.html)
+01:01:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147184624032688.png
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/10/10/150762031757307.jpg (from mdc.17173.com/bio/xiamen2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/10/10/150762010282222.jpg (from mdc.17173.com/bio/xiamen2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/10/10/150762010379660.jpg (from mdc.17173.com/bio/xiamen2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/10/10/150762015485411.jpg (from mdc.17173.com/bio/xiamen2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/10/10/150762015564160.jpg (from mdc.17173.com/bio/xiamen2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/07/150207019612753.jpg (from mdc.17173.com/bio/jinan2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/07/150207019683273.jpg (from mdc.17173.com/bio/jinan2017)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/09/26/150639264658381.jpg (from mdc.17173.com/article/info-6326.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/07/31/150149017947123.jpg (from mdc.17173.com/article/info-6326.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/08/147064711714685.png (from mdc.17173.com/article/info-6405.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/08/147064742519300.png (from mdc.17173.com/article/info-6405.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/11/14/151062192368430.jpg (from mdc.17173.com/article/info-6404.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/11/14/151062180483265.jpg (from mdc.17173.com/article/info-6404.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/11/14/151062192368430.jpg (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/11/20/151114266590617.jpg (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/11/20/151114272615896.jpg (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/11/20/151114274644271.jpg (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/11/20/151114277265162.jpg (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/21/150330290680882.png (from mdc.17173.com/article/info-6487.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/05/151243898036721.jpg (from mdc.17173.com/article/info-6490.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/06/151254513415129.jpg (from mdc.17173.com/article/info-6490.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/11/17/151090201379647.png (from mdc.17173.com/article/info-6490.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298311768544.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298296926403.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298319163990.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298332048860.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298337583457.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298346169567.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298349884104.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298353727699.png (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298357670025.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298365250230.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298369595167.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298375351176.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298380113830.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298383735946.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298386990987.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298391683241.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298395216563.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298405962754.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/12/11/151298409418149.jpg (from mdc.17173.com/article/info-6495.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/06/151255682859196.png (from mdc.17173.com/article/info-6491.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/10/151287072091829.jpeg (from mdc.17173.com/article/info-6493.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/10/151287075595505.jpeg (from mdc.17173.com/article/info-6493.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/10/151287082358525.jpeg (from mdc.17173.com/article/info-6493.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/12/10/151287084662072.jpeg (from mdc.17173.com/article/info-6493.html)
+01:02:01	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/12/10/151287090589490.jpeg (from mdc.17173.com/article/info-6493.html)
+01:02:01	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580857394272.png (from mdc.17173.com/article/info-6152.html)
+01:02:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580857394272.png
+01:02:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580861524009.png (from mdc.17173.com/article/info-6152.html)
+01:02:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581134050880.png (from mdc.17173.com/article/info-6154.html)
+01:02:02	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581170427205.png (from mdc.17173.com/article/info-6154.html)
+01:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580861524009.png
+01:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581134050880.png
+01:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581170427205.png
+01:02:03	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581172640708.png (from mdc.17173.com/article/info-6154.html)
+01:02:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581172640708.png
+01:02:05	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581174378347.png (from mdc.17173.com/article/info-6154.html)
+01:02:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581174378347.png
+01:02:09	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581175669432.png (from mdc.17173.com/article/info-6154.html)
+01:02:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581175669432.png
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/11/149443900845011.png (from mdc.17173.com/article/info-5908.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/11/149446223344254.png (from mdc.17173.com/article/info-5908.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/06/08/149693008363084.png (from mdc.17173.com/article/info-6173.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/06/01/149631465031486.png (from mdc.17173.com/article/info-6173.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/06/01/149631444632661.png (from mdc.17173.com/article/info-6175.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657962597263.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657963436108.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657964264117.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657964932677.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657965856658.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/06/04/149657966727469.png (from mdc.17173.com/article/info-6194.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/06/03/149648209474373.png (from mdc.17173.com/article/info-6193.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/07/04/149917774995570.png (from mdc.17173.com/article/info-6228.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/07/04/149917755576731.png (from mdc.17173.com/article/info-6228.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/07/04/149917783252138.png (from mdc.17173.com/article/info-6227.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259215439.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259378158.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259323976.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259425956.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259446662.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/07/10/149968259573668.jpg (from mdc.17173.com/article/info-6277.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/07/31/150146878870618.jpg (from mdc.17173.com/article/info-6288.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/07/31/150143127122986.png (from mdc.17173.com/article/info-6288.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/02/150163655887163.jpg (from mdc.17173.com/article/info-6314.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link static.hdslb.com/miniloader.swf (from mdc.17173.com/article/info-6314.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157661244755.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157663015164.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157505482965.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157507130091.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157579387058.png (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157581651002.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157583825516.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157586015196.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157687294611.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157592374556.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157603716282.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157611276569.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157620346098.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157694860976.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157625691928.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157697620166.png (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157628589337.png (from mdc.17173.com/article/info-6312.html)
+01:02:14	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/08/01/150157629479427.jpg (from mdc.17173.com/article/info-6312.html)
+01:02:14	Warning: 	Retry after error -3 (Transfer Rate Too Low) at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/02/148064846024544.png (from mdc.17173.com/article/info-5501.html)
+01:02:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/02/148064846024544.png
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019128956067.png (from mdc.17173.com/article/info-5430.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019020186992.png (from mdc.17173.com/article/info-5430.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148019144073473.jpg (from mdc.17173.com/article/info-5431.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/27/148025157824999.png (from mdc.17173.com/article/info-5432.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041345478188.png (from mdc.17173.com/article/info-5476.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/29/148041305022808.png (from mdc.17173.com/article/info-5476.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032813216958.png (from mdc.17173.com/article/info-5444.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032812386117.png (from mdc.17173.com/article/info-5444.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032811664507.png (from mdc.17173.com/article/info-5444.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032810763257.png (from mdc.17173.com/article/info-5444.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/11/28/148032809916239.png (from mdc.17173.com/article/info-5444.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121007444357.png (from mdc.17173.com/article/info-5523.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120352382754.png (from mdc.17173.com/article/info-5523.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148121145889431.jpg (from mdc.17173.com/article/info-5525.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/08/148120039317107.png (from mdc.17173.com/article/info-5524.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143656765245.jpg (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143594725518.png (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143351714958.jpg (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143352942561.jpg (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143355621703.jpg (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/12/11/148143357438711.jpg (from mdc.17173.com/article/info-5553.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146673790784923.jpg (from mdc.17173.com/article/info-4465.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/06/23/146668163386191.jpg (from mdc.17173.com/article/info-4468.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727422459120.jpg (from mdc.17173.com/article/info-4469.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146676983928118.jpg (from mdc.17173.com/article/info-4469.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/06/30/146727416151496.jpg (from mdc.17173.com/article/info-4469.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675524590021.png (from mdc.17173.com/article/info-4466.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/06/24/146675526443155.png (from mdc.17173.com/article/info-4466.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146903264679774.jpg (from mdc.17173.com/article/info-4683.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link d24wuq6o951i2g.cloudfront.net/img/events/id/256/2564080/assets/1ee.MAP_GZ.png (from mdc.17173.com/article/info-4683.html)
+01:02:16	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link cdn5.shendeng.17173.com/shendeng/GameHall/test/mdgz 2.6.pdf (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908508883787.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908555879877.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584042817.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584059354.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584064200.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012103.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584074305.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023658.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584013275.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584017540.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584078782.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584012562.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584084502.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584023571.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584186093.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584169702.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584114433.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584149928.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584159530.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584166795.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584120988.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584156724.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584181150.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/07/21/146908584124778.png (from mdc.17173.com/article/info-4784.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960916045154.png (from mdc.17173.com/article/info-4840.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/07/27/146960921347594.png (from mdc.17173.com/article/info-4840.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147179754238629.jpg (from mdc.17173.com/article/info-5017.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013303516854.jpg (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013431549311.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432062343.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013432560581.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433047192.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013433743606.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434145167.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013434616433.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435587856.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013435990692.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013436648811.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013437183525.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438383476.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013438764407.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439463139.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013439824308.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440233573.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013440975425.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441386108.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013441710952.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/08/02/147013442172486.png (from mdc.17173.com/article/info-4911.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004816711759.jpg (from mdc.17173.com/article/info-4898.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2016/08/01/147004822298516.jpg (from mdc.17173.com/article/info-4898.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2016/08/22/147184624032688.png (from mdc.17173.com/article/info-5023.html)
+01:02:16	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580857394272.png (from mdc.17173.com/article/info-6152.html)
+01:02:17	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149580861524009.png (from mdc.17173.com/article/info-6152.html)
+01:02:17	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581134050880.png (from mdc.17173.com/article/info-6154.html)
+01:02:17	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i3.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581170427205.png (from mdc.17173.com/article/info-6154.html)
+01:02:18	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i2.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581172640708.png (from mdc.17173.com/article/info-6154.html)
+01:02:20	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581174378347.png (from mdc.17173.com/article/info-6154.html)
+01:02:24	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2017/05/26/149581175669432.png (from mdc.17173.com/article/info-6154.html)
+01:02:29	Error: 	"Transfer Rate Too Low" (-3) after 3 retries at link i1.17173cdn.com/7m10xk/YWxqaGBf/2016/12/02/148064846024544.png (from mdc.17173.com/article/info-5501.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 56 seconds : 1219 links scanned, 394 files written (29894388 bytes overall), 51 files updated [39858453 bytes received at 24664 bytes/sec], 108663 bytes transferred using HTTP compression in 16 files, ratio 30%, 1.3 requests per connection
+(269 errors, 1094 warnings, 0 messages)
