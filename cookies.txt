@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mdc.17173.com	TRUE	/	FALSE	1999999999	PHPSESSID	r4il5a8ohrr18i0ng7ot1p53u5
+tlsy.cy.com	TRUE	/	FALSE	1999999999	SUV	1644510689118475276
+17173.com	TRUE	/	FALSE	1999999999	IPLOC	CN3702
+
